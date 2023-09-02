@@ -1,10 +1,7 @@
 # Dasboards Centro Cirúrgico
 
 ## Contexto
-Foi solicitado pelo cliente uma primeira extração de dados para se ter uma visualização Básica dos números do Centro Cirurgico, ou seja, antes da criação do Dashboard abaixo não existia nenhuma extração ou visualização dos dados apresentados
-
-Nesse momento você deve apresentar o problema que o painel endereça. No entanto, não é a hora de comentar sobre a solução. 
-Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos ou projetos.
+O Hospital se via em uma situação onde ele não tinha acesso a nenhum dado do Centro Cirúrgico, seja de sua produtividade, censo de pacientes e KPI's obrigatórios por Lei.
 
 ## Objetivos
 Descreva os objetivos da organização em que o projeto está sendo desenvolvido e que motivam a criação deste projeto.

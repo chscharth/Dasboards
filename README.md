@@ -4,13 +4,10 @@
 O Hospital se via em uma situação onde ele não tinha acesso a nenhum dado do Centro Cirúrgico, seja de sua produtividade, censo de pacientes e KPI's obrigatórios por Lei.
 
 ## Objetivos
-O Objetivo principal nesse primeiro momento era apresentar de forma estruturada os dados basicos do setor, assim como a criação dos KPI's obrigatórios por Lei e comparação de performance dos mesmos mês a mês.
+O Objetivo principal nesse primeiro momento era apresentar de forma estruturada os dados basicos do setor, assim como a criação dos KPI's obrigatórios por Lei e comparação de performance dos mesmos entre os meses.
 
 ## Público alvo
 Gestão local do Centro Cirúrgico, Direção Médica, Gerencia Adminisstrativa e Setor Comercial
-
-## Modelo Dimensional
-O diagrama do modelo dimensional oferece uma visão sobre como os dados serão organizados para atender às necessidades identificadas por meio dos objetivos do projeto.
 
 ## Fontes de Dados
 Descrição das bases de dados ou arquivos utilizados pelo projeto como fonte, apresentando possíveis diagramas dos bancos de dados relacionais.

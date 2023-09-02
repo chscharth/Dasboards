@@ -4,10 +4,10 @@
 O Hospital se via em uma situação onde ele não tinha acesso a nenhum dado do Centro Cirúrgico, seja de sua produtividade, censo de pacientes e KPI's obrigatórios por Lei.
 
 ## Objetivos
-Descreva os objetivos da organização em que o projeto está sendo desenvolvido e que motivam a criação deste projeto.
+O Objetivo principal nesse primeiro momento era apresentar de forma estruturada os dados basicos do setor, assim como a criação dos KPI's obrigatórios por Lei e comparação de performance dos mesmos mês a mês.
 
 ## Público alvo
-Descreva quem serão as pessoas que usarão a solução. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, pressão por trabalho, etc.
+Gestão local do Centro Cirúrgico, Direção Médica, Gerencia Adminisstrativa e Setor Comercial
 
 ## Modelo Dimensional
 O diagrama do modelo dimensional oferece uma visão sobre como os dados serão organizados para atender às necessidades identificadas por meio dos objetivos do projeto.

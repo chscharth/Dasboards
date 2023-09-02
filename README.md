@@ -6,11 +6,11 @@ Foi solicitado pelo cliente uma primeira extração de dados para se ter uma vis
 Nesse momento você deve apresentar o problema que o painel endereça. No entanto, não é a hora de comentar sobre a solução. 
 Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos ou projetos.
 
-
 ## Objetivos
 Descreva os objetivos da organização em que o projeto está sendo desenvolvido e que motivam a criação deste projeto.
 
 ## Público alvo
+Descreva quem serão as pessoas que usarão a solução. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, pressão por trabalho, etc.
 
 ## Modelo Dimensional
 O diagrama do modelo dimensional oferece uma visão sobre como os dados serão organizados para atender às necessidades identificadas por meio dos objetivos do projeto.
@@ -19,6 +19,7 @@ O diagrama do modelo dimensional oferece uma visão sobre como os dados serão o
 Descrição das bases de dados ou arquivos utilizados pelo projeto como fonte, apresentando possíveis diagramas dos bancos de dados relacionais.
 
 ## Processos de Integração e Carga (ETL)
+Descrição dos processos de transformação e carga de dados com imagens dos fluxos criados.
 
 ## Dashboard
 ![Painel Centro Cirúrgico 1](https://github.com/chscharth/Dasboards/assets/85425294/806b41cf-7f88-4805-8b7a-c4eabed13baf)

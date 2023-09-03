@@ -1,4 +1,5 @@
 # Dasboards Centro Cirúrgico
+**PARA PROTEGER AS INFORAÇÕES E PESSOAS ENVOLVIDAS, TODOS OS DADOS APRESENTADOS FORAM RANDOMIZADOS**
 
 ## Contexto
 O Hospital se via em uma situação onde ele não tinha acesso a nenhum dado do Centro Cirúrgico, seja de sua produtividade, censo de pacientes e KPI's obrigatórios por Lei.
@@ -23,6 +24,7 @@ Houve uma integração das datas entre as 5 bases utilziadas, através da criaç
 ![Painel Centro Cirúrgico 3](https://github.com/chscharth/Dasboards/assets/85425294/badd2707-0171-408f-b48d-30383e32d593)
 
 ## Conclusões
-Este item deve apresentar os seguintes itens: (1) análise crítica apresentando os achados mais relevantes nos dados, feitos a partir do uso do dashboard e das experiências adquiridas no processo de desenvolvimento; (2) proposta de intervenção, possíveis ações a serem tomadas por gestores do contexto analisado no intuito de melhorar o desempenho da organização; e, por fim, (3) as lições aprendidas no processo que possam ajudar nos projetos futuros.
-Aponte, ainda, as limitações do trabalho e possíveis pontos de extensão para que outros possam utilizar como ponto de partida em novos projetos.
+(1) análise crítica apresentando os achados mais relevantes nos dados, feitos a partir do uso do dashboard e das experiências adquiridas no processo de desenvolvimento; 
+(2) proposta de intervenção, possíveis ações a serem tomadas por gestores do contexto analisado no intuito de melhorar o desempenho da organização; e, por fim, 
+(3) as lições aprendidas no processo que possam ajudar nos projetos futuros. Aponte, ainda, as limitações do trabalho e possíveis pontos de extensão para que outros possam utilizar como ponto de partida em novos projetos.
 

@@ -1,5 +1,4 @@
 # Dasboards Centro Cirúrgico
-**PARA PROTEGER AS INFORAÇÕES E PESSOAS ENVOLVIDAS, TODOS OS DADOS APRESENTADOS FORAM RANDOMIZADOS**
 
 ## Contexto
 O Hospital se via em uma situação onde ele não tinha acesso a nenhum dado do Centro Cirúrgico, seja de sua produtividade, censo de pacientes e KPI's obrigatórios por Lei.
@@ -28,3 +27,4 @@ Houve uma integração das datas entre as 5 bases utilziadas, através da criaç
 (2) proposta de intervenção, possíveis ações a serem tomadas por gestores do contexto analisado no intuito de melhorar o desempenho da organização; e, por fim, 
 (3) as lições aprendidas no processo que possam ajudar nos projetos futuros. Aponte, ainda, as limitações do trabalho e possíveis pontos de extensão para que outros possam utilizar como ponto de partida em novos projetos.
 
+**DISCLAIMER- PARA PROTEGER A SEGURANÇA DAS INFORMAÇÕES, TODOS OS DADOS APRESENTADOS FORAM RANDOMIZADOS**

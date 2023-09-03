@@ -10,12 +10,12 @@ O Objetivo principal nesse primeiro momento era apresentar de forma estruturada 
 Gestão local do Centro Cirúrgico, Direção Médica, Gerencia Adminisstrativa e Setor Comercial
 
 ## Fontes de Dados
-Descrição das bases de dados ou arquivos utilizados pelo projeto como fonte, apresentando possíveis diagramas dos bancos de dados relacionais.
+Foram extraídas as informações do Banco de dados do sistema Hospitalar, assim como de controles manuais que o time realiza, totalizando 5 bases de dados
 
 ## Processos de Integração e Carga (ETL)
-Descrição dos processos de transformação e carga de dados com imagens dos fluxos criados.
+Houve uma integração das datas entre as 5 bases utilziadas, através da criação de um calendário padronizado. No momento não houve a necessidade de uma estruturação mais complexa, porem, para podermos contextualizar os dados inseridos, assim como realizar a criação dos 16 Indicadores Obrigatórios e a criação do Censo do setor, onde medimos quantidade de procedimentos por cirurgão, divisão por faixa etária e porte de cirurgia, foram criadas mais de 30 interaçãoes através de Fórmulas DAX.
 
-## Dashboard
+## O Dashboard
 ![Painel Centro Cirúrgico 1](https://github.com/chscharth/Dasboards/assets/85425294/806b41cf-7f88-4805-8b7a-c4eabed13baf)
 
 ![Painel Centro Cirúrgico 2](https://github.com/chscharth/Dasboards/assets/85425294/d5d979e8-a000-449e-8eaf-dce0f3451ddb)

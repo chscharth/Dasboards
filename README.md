@@ -23,7 +23,14 @@ Houve uma integração das datas entre as 5 bases utilziadas, através da criaç
 ![Painel Centro Cirúrgico 3](https://github.com/chscharth/Dasboards/assets/85425294/badd2707-0171-408f-b48d-30383e32d593)
 
 ## Conclusões
-Com a visualização estruturada dos dados conseguimos determinar que o nosso perfil majoritário é feminino e está entre os 40 e 79 anos, sendo o perfil mais proeminete o perfil de 50-59, verifcamos também que nosso foco são cirugias de pequeno porte e eletivas, além disso percebemos que para um centro cirúgico aberto 24h por dia e 7 dias por semana, o perfil médio de 300 cirurgias é pouco e por sí só e em termos de capacidade instalada, ele pode dobrar de tamanho, porem isso depende da quantidade de leitos hospitalares para absorver o paciente pós cirúrgico, assim como a agenda dos cirurgiões para horários diferenciados (noite, madrugada), verificamos também que a taxa de cancelamento vem aumentando e precisa ser adereçada, quanto ao número de atrasos vemos uma pequena variação na casa dos 40%, o que é valor consideravelmente alto e que deve ser sanado o quanto antes, além disso de fato relevante temos a quantidade de preenchimentos incompletos do formulário de cirurgia segura, o que se trata de um indicador que deve ser zero, de resto temos ótimos números quanto a cirurgias em pacientes errados, local de cirurgia errada e queda, onde temos zero eventos. 
+Com a visualização estruturada dos dados conseguimos determinar Seguintes pontos:
+* Nosso perfil majoritário é feminino e está entre os 40 e 79 anos, sendo o perfil mais proeminete o perfil de 50-59.
+* Nosso foco são cirugias de pequeno porte e eletivas.
+* Percebemos que para um centro cirúgico aberto 24h por dia e 7 dias por semana, O perfil médio de 300 cirurgias é pouco e por sí só e em termos de capacidade instalada, ele pode dobrar de tamanho, porem isso depende da quantidade de leitos hospitalares para absorver o paciente pós cirúrgico, assim como a agenda dos cirurgiões para horários diferenciados (noite, madrugada).
+* A taxa de cancelamentos vem aumentando e precisa ser adereçada.
+* Sobre atrasos vemos uma variação na casa dos 40%, o que é valor consideravelmente alto e que deve ser sanado o quanto antes.
+* De resto temos ótimos números quanto a cirurgias em pacientes errados, local de cirurgia errada e queda, onde temos zero eventos.
+  
 Como proposta de melhorias, foi sugerida a instalação de um comitê multidiscipliar para o acompanhamento e construção/execução de planos de ação para mitigação dos indicadores negativos, assim como para entender o porque da baixa adesão cirúrgica de pacientes masculinos e planos de aumento estruturado de cirurgias realizadas no hospital. 
 
 **DISCLAIMER - PARA PROTEGER A SEGURANÇA DAS INFORMAÇÕES, TODOS OS DADOS APRESENTADOS FORAM RANDOMIZADOS**
